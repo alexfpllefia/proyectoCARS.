@@ -1,8 +1,29 @@
-img {
+.container{
+    width: 1300px;
+}
+
+.cars1 {
+    position: absolute;
     width: 1312px;
     height: 457px;
-    top: 455px;
     left: 100px;
+    top: 455px;
     border-radius: 20px;
-    margin-left: 295px;
 }
+
+.union{
+
+}
+
+.menu{
+
+}
+
+.menu1{
+
+}
+
+
+                             
+
+                
